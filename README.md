@@ -76,6 +76,9 @@ Now you can do the following:
 
 4. Point your new server to the `public` path of where you unzipped Webception.
 
+   `cd public`
+   `php -S localhost:8000 -c php-local.ini`
+
 You'll now be able to load Webception in your browser.
 
 If there are any issues Webception will do it's best to tell what you need to do.
